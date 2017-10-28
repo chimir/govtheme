@@ -1,0 +1,4 @@
+name: 'Gov Theme'
+type: theme
+description: 'Тема оформления для государственных сайтов.'
+core: 8.x
